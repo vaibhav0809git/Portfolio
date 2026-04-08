@@ -24,7 +24,7 @@ export default function App() {
   }, [roleIndex]);
 
   return (
-      <div style={{ width: "100%", overflowX: "hidden", background: "#020617", color: "white" }}>
+      <div style={{ width: "115%", overflowX: "hidden", background: "#020617", color: "white" }}>
   
 
       <style>{`
